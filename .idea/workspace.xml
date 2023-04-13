@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="127cc88b-bdf6-4284-bdf8-41caf752e821" name="Changes" comment="">
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/components/Header/index.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/pages/Basket/BasketTable.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/pages/Basket/index.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/pages/Favorites/FavoritesTable.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/pages/Favorites/index.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/pages/Product/ProductCart.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/pages/Product/index.js" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/package-lock.json" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/package-lock.json" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/package.json" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/package.json" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/App.css" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/App.css" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/App.js" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/App.js" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/index.css" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/index.css" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/index.js" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/new-redux/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/jbr/bin/new-redux" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NxHstFqwg49kcg1fWnutUZuFHX" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files\JetBrains\WebStorm 2022.2.2\jbr\bin\new-redux\src" />
+      <recent name="C:\Program Files\JetBrains\WebStorm 2022.2.2\jbr\bin\new-redux\src\pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="127cc88b-bdf6-4284-bdf8-41caf752e821" name="Changes" comment="" />
+      <created>1680599023184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680599023184</updated>
+      <workItem from="1680599024658" duration="5668000" />
+      <workItem from="1680768620497" duration="6520000" />
+      <workItem from="1680783811582" duration="3824000" />
+      <workItem from="1680817797655" duration="1166000" />
+      <workItem from="1680860891631" duration="2030000" />
+      <workItem from="1680943357789" duration="855000" />
+      <workItem from="1680950999184" duration="1624000" />
+      <workItem from="1680953706837" duration="1261000" />
+      <workItem from="1680981347819" duration="1142000" />
+      <workItem from="1681027664555" duration="5892000" />
+      <workItem from="1681068760311" duration="8794000" />
+      <workItem from="1681079203328" duration="648000" />
+      <workItem from="1681152344932" duration="474000" />
+      <workItem from="1681158687403" duration="8503000" />
+      <workItem from="1681200201362" duration="7980000" />
+      <workItem from="1681291693463" duration="2039000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
